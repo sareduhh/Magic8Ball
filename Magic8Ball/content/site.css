@@ -1,0 +1,29 @@
+﻿body {
+    
+    background-color: black;
+    color: white;
+}
+.image{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.makecenter{
+    text-align:center;
+   color:white;
+}
+
+.mButton {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#getAnswers{
+    font-size:30px;
+   
+}
+#magic{
+    text-align:center;
+    margin-top:-400px;
+}
